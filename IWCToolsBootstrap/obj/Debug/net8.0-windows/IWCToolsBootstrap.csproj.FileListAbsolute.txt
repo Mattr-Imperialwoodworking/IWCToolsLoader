@@ -1,0 +1,16 @@
+C:\Users\mattr\source\repos\Mattr-Imperialwoodworking\IWCToolsLoader\IWCToolsBootstrap\bin\Debug\net8.0-windows\iwc-loader-bootstrap.sample.json
+C:\Users\mattr\source\repos\Mattr-Imperialwoodworking\IWCToolsLoader\IWCToolsBootstrap\bin\Debug\net8.0-windows\IWCToolsBootstrap.exe
+C:\Users\mattr\source\repos\Mattr-Imperialwoodworking\IWCToolsLoader\IWCToolsBootstrap\bin\Debug\net8.0-windows\IWCToolsBootstrap.deps.json
+C:\Users\mattr\source\repos\Mattr-Imperialwoodworking\IWCToolsLoader\IWCToolsBootstrap\bin\Debug\net8.0-windows\IWCToolsBootstrap.runtimeconfig.json
+C:\Users\mattr\source\repos\Mattr-Imperialwoodworking\IWCToolsLoader\IWCToolsBootstrap\bin\Debug\net8.0-windows\IWCToolsBootstrap.dll
+C:\Users\mattr\source\repos\Mattr-Imperialwoodworking\IWCToolsLoader\IWCToolsBootstrap\bin\Debug\net8.0-windows\IWCToolsBootstrap.pdb
+C:\Users\mattr\source\repos\Mattr-Imperialwoodworking\IWCToolsLoader\IWCToolsBootstrap\obj\Debug\net8.0-windows\IWCToolsBootstrap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mattr\source\repos\Mattr-Imperialwoodworking\IWCToolsLoader\IWCToolsBootstrap\obj\Debug\net8.0-windows\IWCToolsBootstrap.AssemblyInfoInputs.cache
+C:\Users\mattr\source\repos\Mattr-Imperialwoodworking\IWCToolsLoader\IWCToolsBootstrap\obj\Debug\net8.0-windows\IWCToolsBootstrap.AssemblyInfo.cs
+C:\Users\mattr\source\repos\Mattr-Imperialwoodworking\IWCToolsLoader\IWCToolsBootstrap\obj\Debug\net8.0-windows\IWCToolsBootstrap.csproj.CoreCompileInputs.cache
+C:\Users\mattr\source\repos\Mattr-Imperialwoodworking\IWCToolsLoader\IWCToolsBootstrap\obj\Debug\net8.0-windows\IWCToolsBootstrap.sourcelink.json
+C:\Users\mattr\source\repos\Mattr-Imperialwoodworking\IWCToolsLoader\IWCToolsBootstrap\obj\Debug\net8.0-windows\IWCToolsBootstrap.dll
+C:\Users\mattr\source\repos\Mattr-Imperialwoodworking\IWCToolsLoader\IWCToolsBootstrap\obj\Debug\net8.0-windows\refint\IWCToolsBootstrap.dll
+C:\Users\mattr\source\repos\Mattr-Imperialwoodworking\IWCToolsLoader\IWCToolsBootstrap\obj\Debug\net8.0-windows\IWCToolsBootstrap.pdb
+C:\Users\mattr\source\repos\Mattr-Imperialwoodworking\IWCToolsLoader\IWCToolsBootstrap\obj\Debug\net8.0-windows\IWCToolsBootstrap.genruntimeconfig.cache
+C:\Users\mattr\source\repos\Mattr-Imperialwoodworking\IWCToolsLoader\IWCToolsBootstrap\obj\Debug\net8.0-windows\ref\IWCToolsBootstrap.dll

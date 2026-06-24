@@ -1,0 +1,8 @@
+{
+  "LoaderManifestPath": "\\\\IWCMAIN1\\DRAFTING\\LIBRARY\\App\\IWC Desktop Tools\\IWCToolsLoader\\loader-manifest.json",
+  "LocalLoaderRoot": "%LOCALAPPDATA%\\ImperialWoodworking\\IWCToolsLoader",
+  "VersionsFolderName": "Versions",
+  "EntryExe": "IWCToolsLoader.exe",
+  "KeepOldVersions": true,
+  "LaunchAfterUpdate": true
+}

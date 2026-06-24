@@ -1,0 +1,32 @@
+{
+  "manifestVersion": "1.0.0",
+  "released": "2026-06-18",
+  "applications": [
+    {
+      "id": "IWCSampleLabels",
+      "title": "IWC Materials and Sample Labels",
+      "description": "Application for managing materials and sample labels for IWC projects including logging of material and sample images.",
+      "version": "1.0.0",
+      "sourceType": "folder",
+      "source": "\\\\IWCMAIN1\\DRAFTING\\LIBRARY\\App\\IWC Desktop Tools\\IWCSampleLabels\\1.0.0",
+      "localName": "IWCSampleLabels",
+      "entryExe": "IWCSampleLabels.exe",
+      "icon": "app.ico",
+      "enabled": true,
+      "displayOrder": 10
+    },
+    {
+      "id": "IWCDoorTools",
+      "title": "IWC Door Tools",
+      "description": "Door schedule management application for openings, leaves, jambs, and hardware.",
+      "version": "1.0.0",
+      "sourceType": "folder",
+      "source": "\\\\IWCMAIN1\\DRAFTING\\LIBRARY\\App\\IWC Desktop Tools\\IWCDoorTools\\1.0.0",
+      "localName": "IWCDoorTools",
+      "entryExe": "IWCDoorTools.exe",
+      "icon": "app.ico",
+      "enabled": true,
+      "displayOrder": 20
+    }
+  ]
+}

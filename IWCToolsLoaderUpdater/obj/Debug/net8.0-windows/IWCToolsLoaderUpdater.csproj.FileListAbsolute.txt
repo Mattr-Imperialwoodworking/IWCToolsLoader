@@ -1,0 +1,15 @@
+C:\Users\mattr\source\repos\Mattr-Imperialwoodworking\IWCToolsLoader\IWCToolsLoaderUpdater\bin\Debug\net8.0-windows\IWCToolsLoaderUpdater.exe
+C:\Users\mattr\source\repos\Mattr-Imperialwoodworking\IWCToolsLoader\IWCToolsLoaderUpdater\bin\Debug\net8.0-windows\IWCToolsLoaderUpdater.deps.json
+C:\Users\mattr\source\repos\Mattr-Imperialwoodworking\IWCToolsLoader\IWCToolsLoaderUpdater\bin\Debug\net8.0-windows\IWCToolsLoaderUpdater.runtimeconfig.json
+C:\Users\mattr\source\repos\Mattr-Imperialwoodworking\IWCToolsLoader\IWCToolsLoaderUpdater\bin\Debug\net8.0-windows\IWCToolsLoaderUpdater.dll
+C:\Users\mattr\source\repos\Mattr-Imperialwoodworking\IWCToolsLoader\IWCToolsLoaderUpdater\bin\Debug\net8.0-windows\IWCToolsLoaderUpdater.pdb
+C:\Users\mattr\source\repos\Mattr-Imperialwoodworking\IWCToolsLoader\IWCToolsLoaderUpdater\obj\Debug\net8.0-windows\IWCToolsLoaderUpdater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mattr\source\repos\Mattr-Imperialwoodworking\IWCToolsLoader\IWCToolsLoaderUpdater\obj\Debug\net8.0-windows\IWCToolsLoaderUpdater.AssemblyInfoInputs.cache
+C:\Users\mattr\source\repos\Mattr-Imperialwoodworking\IWCToolsLoader\IWCToolsLoaderUpdater\obj\Debug\net8.0-windows\IWCToolsLoaderUpdater.AssemblyInfo.cs
+C:\Users\mattr\source\repos\Mattr-Imperialwoodworking\IWCToolsLoader\IWCToolsLoaderUpdater\obj\Debug\net8.0-windows\IWCToolsLoaderUpdater.csproj.CoreCompileInputs.cache
+C:\Users\mattr\source\repos\Mattr-Imperialwoodworking\IWCToolsLoader\IWCToolsLoaderUpdater\obj\Debug\net8.0-windows\IWCToolsLoaderUpdater.sourcelink.json
+C:\Users\mattr\source\repos\Mattr-Imperialwoodworking\IWCToolsLoader\IWCToolsLoaderUpdater\obj\Debug\net8.0-windows\IWCToolsLoaderUpdater.dll
+C:\Users\mattr\source\repos\Mattr-Imperialwoodworking\IWCToolsLoader\IWCToolsLoaderUpdater\obj\Debug\net8.0-windows\refint\IWCToolsLoaderUpdater.dll
+C:\Users\mattr\source\repos\Mattr-Imperialwoodworking\IWCToolsLoader\IWCToolsLoaderUpdater\obj\Debug\net8.0-windows\IWCToolsLoaderUpdater.pdb
+C:\Users\mattr\source\repos\Mattr-Imperialwoodworking\IWCToolsLoader\IWCToolsLoaderUpdater\obj\Debug\net8.0-windows\IWCToolsLoaderUpdater.genruntimeconfig.cache
+C:\Users\mattr\source\repos\Mattr-Imperialwoodworking\IWCToolsLoader\IWCToolsLoaderUpdater\obj\Debug\net8.0-windows\ref\IWCToolsLoaderUpdater.dll

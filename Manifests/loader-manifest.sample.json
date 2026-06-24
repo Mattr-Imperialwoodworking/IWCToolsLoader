@@ -1,0 +1,12 @@
+{
+  "appId": "IWCToolsLoader",
+  "title": "IWC Tools Loader",
+  "version": "1.0.1",
+  "released": "2026-06-18",
+  "notes": "Self-update enabled loader release.",
+  "sourceType": "folder",
+  "source": "\\\\IWCMAIN1\\DRAFTING\\LIBRARY\\App\\IWC Desktop Tools\\IWCToolsLoader\\1.0.1",
+  "entryExe": "IWCToolsLoader.exe",
+  "updaterExe": "IWCToolsLoaderUpdater.exe",
+  "required": true
+}

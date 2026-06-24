@@ -1,0 +1,13 @@
+{
+  "ServerManifestPath": "\\\\IWCMAIN1\\DRAFTING\\LIBRARY\\App\\IWC Desktop Tools\\desktop-tools-manifest.json",
+  "LoaderManifestPath": "\\\\IWCMAIN1\\DRAFTING\\LIBRARY\\App\\IWC Desktop Tools\\IWCToolsLoader\\loader-manifest.json",
+  "LocalRoot": "%LOCALAPPDATA%\\ImperialWoodworking\\IWCTools",
+  "AutoSyncOnStartup": true,
+  "AutoUpdateLoaderOnStartup": false,
+  "KeepOldVersions": true,
+  "SqlServer": "iwcprojectportal.database.windows.net",
+  "SqlDatabase": "IWCProj",
+  "SqlUserName": "",
+  "SqlPassword": "",
+  "SqlConnectionString": ""
+}
